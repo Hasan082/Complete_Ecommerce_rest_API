@@ -1,0 +1,8 @@
+Django==5.2.4
+django-filter==22.1
+djangorestframework==3.14.0
+Markdown==3.4.1
+Pillow==10.4.0
+sqlparse==0.4.3
+drf-spectacular
+django-cleanup
